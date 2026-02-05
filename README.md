@@ -33,10 +33,4 @@ Ele utiliza a API [Open-Meteo](https://open-meteo.com/) para coletar dados e apr
 
 ---
 
-## 📦 Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/FarandaMauricio-make/Projetos_Pessoais.git
-cd Projetos_Pessoais
+Você pode acessar o dashboard através do seguinte link: [Dashboard_Clima_de_Lavras](https://projetos-pessoais-vi7y.onrender.com)
