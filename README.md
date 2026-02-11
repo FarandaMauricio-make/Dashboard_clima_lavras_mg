@@ -33,4 +33,5 @@ Ele utiliza a API [Open-Meteo](https://open-meteo.com/) para coletar dados e apr
 
 ---
 
-Você pode acessar o dashboard através do seguinte link: [Dashboard_Clima_de_Lavras](https://projetos-pessoais-vi7y.onrender.com)
+Você pode acessar o dashboard através do seguinte link: [Clima em Lavras - MG](https://projetos-pessoais-vi7y.onrender.com)
+
