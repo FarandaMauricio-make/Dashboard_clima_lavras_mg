@@ -84,7 +84,7 @@ O código está configurado com as coordenadas geográficas fixas de **Lavras, M
 * **Latitude:** -21.245
 * **Longitude:** -45.000
 
-*Para adaptar para outra cidade, basta alterar as variáveis `latitude` e `longitude` dentro das funções `get_forecast` e `get_historical` no arquivo `app.py`.*
+*Para adaptar para outra cidade, basta alterar as variáveis `latitude` e `longitude` dentro das funções `get_forecast` e `get_historical` no arquivo `dashboard_clima_lavras.py`.*
 
 ---
 
@@ -103,6 +103,7 @@ Sugestões e melhorias são bem-vindas!
 **Desenvolvido com 💙 e Python.**
 
 Você pode acessar o dashboard através do seguinte link: [Clima em Lavras - MG](https://projetos-pessoais-vi7y.onrender.com)
+
 
 
 
