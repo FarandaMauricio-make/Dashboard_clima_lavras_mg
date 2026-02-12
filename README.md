@@ -69,7 +69,7 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
 
 4.  **Execute o Streamlit:**
     ```bash
-    streamlit run app.py
+    streamlit run dashboard_clima_lavras.py
     ```
 
 ---
@@ -103,5 +103,6 @@ Sugestões e melhorias são bem-vindas!
 **Desenvolvido com 💙 e Python.**
 
 Você pode acessar o dashboard através do seguinte link: [Clima em Lavras - MG](https://projetos-pessoais-vi7y.onrender.com)
+
 
 
